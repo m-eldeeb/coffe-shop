@@ -10,6 +10,6 @@
 6. **font swesome**
 ---
 
-Live Demo:
+Live Demo: https://m-eldeeb.github.io/coffe-shop/
 
 ![Website Image](/images/website.png)
