@@ -1,4 +1,4 @@
-# travel--website
+# Coffe shop
 
 ---
 ## Technology
@@ -9,5 +9,7 @@
 5. **swiper-slider**
 6. **font swesome**
 ---
+
+Live Demo:
 
 ![Website Image](/images/website.png)
